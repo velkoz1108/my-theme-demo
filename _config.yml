@@ -7,6 +7,3 @@ url: https://velkoz1108.github.io
 aux_links:
   Template Repository: https://github.com/velkoz1108/velkoz1108.github.io
 
-
-plugins:
-  - jekyll-default-layout
