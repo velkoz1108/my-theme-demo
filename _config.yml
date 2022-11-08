@@ -7,3 +7,6 @@ url: https://velkoz1108.github.io
 #aux_links:
 #  Template Repository: https://github.com/velkoz1108/velkoz1108.github.io
 
+footer_content: "Copyright &copy; 2020-2022 <a href=\"https://www.edenwang.top\">www.edenwang.top</a>"
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p"

@@ -3,6 +3,7 @@ layout: default
 title: 其他
 nav_order: 99
 has_children: true
+has_toc: false 
 permalink: docs/Other
 ---
 
