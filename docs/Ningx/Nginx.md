@@ -6,7 +6,7 @@ has_children: true
 permalink: docs/Nginx
 ---
 
-# Utilities
+# Nginx
 {: .no_toc }
 
 Nginx使用技巧.
