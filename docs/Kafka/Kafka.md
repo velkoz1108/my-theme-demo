@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Nginx
+title: Kafka
 nav_order: 2
 has_children: true
-permalink: docs/Nginx
+permalink: docs/Kafka
 ---
 
-# Nginx
+# Kafka
 {: .no_toc }
 
-Nginx使用技巧.
+Kafka使用技巧.
 
 {: .fs-6 .fw-300 }
